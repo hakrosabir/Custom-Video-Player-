@@ -10,5 +10,4 @@ Custom Video Player using the HTML5 video element and It's Javascript API with a
 
 here is link: https://mycustom-video-player.netlify.app/
 
-
-![custom video player]([https://user-images.githubusercontent.com/37371396/174241238-5eb07597-0077-43a1-aaa0-75479e4d8a91.png])
+![custom video player](https://user-images.githubusercontent.com/37371396/174241649-f92c0187-0dbb-4022-9ccb-2e3977ecbe97.png)
